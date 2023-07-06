@@ -1,9 +1,16 @@
+local CoreGui = game:GetService("StarterGui")
+CoreGui:SetCore("SendNotification", {
+    Title = "加群有可能会发放白名单",
+    Text = "781759165",
+    Duration = 2999, 
+})
 
+wait(2)
 local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
-    Title = "确认身份",
-    Text = "正在验证....",
+    Title = "🇹「㊐   ㊊』🇿",
+    Text = "白名单资格验证中...",
     Duration = 5,
 })
 
@@ -6296,8 +6303,19 @@ Tab1:Button("门(游戏)",function()
     print("hi")
 end) 
     else
-        game.Players.LocalPlayer:Kick("错误：密码错误 加群获得密钥：781759165")
-    end
+local CoreGui = game:GetService("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+    Title = "🇹「㊐   ㊊』🇿",
+    Text = "密码错误",
+    Duration = 10,   
+
+})
+
+wait(2)
+game.Players.LocalPlayer:Kick ("错误：加群有活动领取白名单资格：781759165")
+end
+
 end)
 local CoreGui = game:GetService("StarterGui")
 
