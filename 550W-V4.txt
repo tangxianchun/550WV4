@@ -40,7 +40,14 @@ CoreGui:SetCore("SendNotification", {
     Text = a.."验证身份成功等待时间长一点",
     Duration = 5,
 })
-  wait(3) 
+wait(2)
+local CoreGui = game:GetService("StarterGui")
+CoreGui:SetCore("SendNotification", {
+    Title = "🇹「㊐   ㊊』🇿",
+    Text = "云端加速启动中",
+    Duration = 5, 
+})
+
   local DarkraiX = loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Kavo-Ui/main/Darkrai%20Ui", true))()
 local Library = DarkraiX:Window("550W V4","","",Enum.KeyCode.P);
 Tab1 = Library:Tab("信息")
