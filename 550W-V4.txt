@@ -18,6 +18,9 @@ _G.whitelist=true
 elseif a=="567yydc"then
 _G.whitelist=true
 
+elseif a=="qjddie4514"then
+_G.whitelist=true
+
 elseif a=="Zsjcb1005"then
 _G.whitelist=true
 
