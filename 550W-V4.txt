@@ -22,6 +22,12 @@ _G.whitelist=true
 elseif a=="114514phz129"then
 _G.whitelist=true
 
+elseif a=="jinitaimei1y55555"then
+_G.whitelist=true
+
+elseif a=="SDjdkskes"then
+_G.whitelist=true
+
 elseif a=="567yydc"then
 _G.whitelist=true
 
