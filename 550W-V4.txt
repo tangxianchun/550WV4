@@ -31,6 +31,12 @@ _G.whitelist=true
 elseif a=="gamemode12678643"then
 _G.whitelist=true
 
+elseif a=="delta_China"then
+_G.whitelist=true
+
+elseif a=="0997ikun"then
+_G.whitelist=true
+
 elseif a=="Harry_Bert"then
 _G.whitelist=true
 
