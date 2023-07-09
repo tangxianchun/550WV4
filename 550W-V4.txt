@@ -31,6 +31,9 @@ _G.whitelist=true
 elseif a=="6fhg51"then
 _G.whitelist=true
 
+elseif a=="rtyyydshahaha"then
+_G.whitelist=true
+
 elseif a=="gamemode12678643"then
 _G.whitelist=true
 
