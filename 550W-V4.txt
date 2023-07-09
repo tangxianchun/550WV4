@@ -28,6 +28,9 @@ _G.whitelist=true
 elseif a=="SDjdkskes"then
 _G.whitelist=true
 
+elseif a=="CN_sakara"then
+_G.whitelist=true
+
 elseif a=="6fhg51"then
 _G.whitelist=true
 
