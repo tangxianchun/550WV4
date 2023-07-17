@@ -9,7 +9,7 @@ wait(2)
 local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
-    Title = "————💫「㊐ 工作室 ㊊』💫————",
+    Title = "————💫「㊐ 工作室 ㊊」💫————",
     Text = "白名单资格验证中...",
     Duration = 5,
 })
@@ -41,6 +41,9 @@ elseif a=="fhscnxdznxgz"then
 _G.whitelist=true
 
 elseif a=="6331nhdi"then
+_G.whitelist=true
+
+elseif a=="shiIbushiKUN"then
 _G.whitelist=true
 
 elseif a=="rtyyydshahaha"then
@@ -139,7 +142,7 @@ CoreGui:SetCore("SendNotification", {
 wait(2)
 local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
-    Title = "🇹「㊐   ㊊』🇿",
+    Title = "————💫『㊐  工作室  ㊊」💫————",
     Text = "云端加速启动中",
     Duration = 5, 
 })
@@ -223,7 +226,7 @@ Start.MouseButton1Click:Connect(function()
 local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
-    Title = "————💫「㊐ 工作室 ㊊』💫————",
+    Title = "————💫『㊐  工作室  ㊊」💫————",
     Text = "密码错误",
     Duration = 10,   
 
