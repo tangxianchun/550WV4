@@ -9,7 +9,7 @@ wait(2)
 local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
-    Title = "————💫「㊐ 工作室 ㊊」💫————",
+    Title = "————💫『㊐  工作室  ㊊」💫————",
     Text = "白名单资格验证中...",
     Duration = 5,
 })
