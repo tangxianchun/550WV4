@@ -2914,6 +2914,10 @@ Tab1:Button("Dragon Race",function()
      loadstring(game:HttpGet("https://raw.githubusercontent.com/alialii404/DragonRace/main/Tora", true))()
     print("hi")
 end)
+Tab1:Button("Race Click",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe2/ToraIsMe2/main/0raceclicker", true))()
+    print("hi")
+end)
 Tab1:Button("Secret Neighbor无限金币",function()
      local args = {
 [1] = -999999,
