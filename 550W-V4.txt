@@ -55,6 +55,9 @@ _G.whitelist=true
 elseif a=="shiIbushiKUN"then
 _G.whitelist=true
 
+elseif a=="ty13725038308"then
+_G.whitelist=true
+
 elseif a=="rtyyydshahaha"then
 _G.whitelist=true
 
