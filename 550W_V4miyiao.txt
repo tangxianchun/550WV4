@@ -2918,6 +2918,10 @@ Tab1:Button("Race Click",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe2/ToraIsMe2/main/0raceclicker", true))()
     print("hi")
 end)
+Tab1:Button("Race Click 2",function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/LOAKS-HUB/RBLX/main/LOAKS/Loader.lua"))()
+    print("hi")
+end)
 Tab1:Button("Secret Neighbor无限金币",function()
      local args = {
 [1] = -999999,
