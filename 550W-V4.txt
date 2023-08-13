@@ -115,6 +115,15 @@ _G.whitelist=true
 elseif a=="Zsjcb1005"then
 _G.whitelist=true
 
+elseif a=="xwzz123456aq"then
+_G.whitelist=true
+
+elseif a=="SunjunyuSSS"then
+_G.whitelist=true
+
+elseif a=="cmhehebeb"then
+_G.whitelist=true
+
 elseif a=="plmnkoijbvhuygcxfty"then
 _G.whitelist=true
 
