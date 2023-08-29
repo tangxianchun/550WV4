@@ -163,6 +163,9 @@ _G.whitelist=true
 elseif a=="TANGXIANCHUN"then
 _G.whitelist=true
 
+elseif a=="XHT147"then
+_G.whitelist=true
+
 end
 if _G.whitelist==true then
     local CoreGui = game:GetService("StarterGui")
