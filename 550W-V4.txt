@@ -181,6 +181,10 @@ _G.whitelist=true
 elseif a=="qazazure"then
 _G.whitelist=true
 
+elseif a=="gghjsydhhsijrjdjsfdj"then
+_G.whitelist=true
+
+
 end
 if _G.whitelist==true then
     local CoreGui = game:GetService("StarterGui")
