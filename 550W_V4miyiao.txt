@@ -1,5 +1,5 @@
-local DarkraiX = loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Kavo-Ui/main/Darkrai%20Ui", true))()
-local Library = DarkraiX:Window("550W V4","","",Enum.KeyCode.P);
+local DarkraiX = loadstring(game:HttpGet("https://raw.githubusercontent.com/tangxianchun/550fx/main/Kavo-Ui.lua", true))()
+local Library = DarkraiX:Window("550W V4","日月","",Enum.KeyCode.P);
 Tab1 = Library:Tab("信息")
 Tab1:Button("群号(点我复制)",function()
      setclipboard("781759165")
