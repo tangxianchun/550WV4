@@ -14,182 +14,69 @@ CoreGui:SetCore("SendNotification", {
     Duration = 5,
 })
 
-local a=tostring(game.Players.LocalPlayer.Character);
-
-if a=="zkosjsiw"then
-_G.whitelist=true
-
-elseif a=="114514phz129"then
-_G.whitelist=true
-
-elseif a=="jinitaimei1y55555"then
-_G.whitelist=true
-
-elseif a=="a2023742"then
-_G.whitelist=true
-
-elseif a=="CN_dyc265"then
-_G.whitelist=true
-
-elseif a=="SDjdkskes"then
-_G.whitelist=true
-
-elseif a=="CN_sakara"then
-_G.whitelist=true
-
-elseif a=="1235yangTianyu"then
-_G.whitelist=true
-
-elseif a=="fhscnxdznxgz"then
-_G.whitelist=true
-
-elseif a=="ymym999a"then
-_G.whitelist=true
-
-elseif a=="fengwenshuopp"then
-_G.whitelist=true
-
-elseif a=="6331nhdi"then
-_G.whitelist=true
-
-elseif a=="xwzz123456aq"then
-_G.whitelist=true
-
-elseif a=="doCj2158"then
-_G.whitelist=true
-
-elseif a=="cnmlgbdpgt"then
-_G.whitelist=true
-
-elseif a=="shiIbushiKUN"then
-_G.whitelist=true
-
-elseif a=="ty13725038308"then
-_G.whitelist=true
-
-elseif a=="rtyyydshahaha"then
-_G.whitelist=true
-
-elseif a=="951357nvjn"then
-_G.whitelist=true
-
-elseif a=="gfj233958"then
-_G.whitelist=true
-
-elseif a=="qwrtuiplkjhgfdsa"then
-_G.whitelist=true
-
-elseif a=="shadiao_yazi"then
-_G.whitelist=true
-
-elseif a=="BBB989898988"then
-_G.whitelist=true
-
-elseif a=="QMPW147258"then
-_G.whitelist=true
-
-elseif a=="gamemode12678643"then
-_G.whitelist=true
-
-elseif a=="roblox_qwq7"then
-_G.whitelist=true
-
-elseif a=="0997ikun"then
-_G.whitelist=true
-
-elseif a=="cclb_123xh"then
-_G.whitelist=true
-
-elseif a=="Harry_Bert"then
-_G.whitelist=true
-
-elseif a=="6fhg51"then
-_G.whitelist=true
-
-elseif a=="moyingyo"then
-_G.whitelist=true
-
-elseif a=="567yydc"then
-_G.whitelist=true
-
-elseif a=="qjddie4514"then
-_G.whitelist=true
-
-elseif a=="Zsjcb1005"then
-_G.whitelist=true
-
-elseif a=="xwzz123456aq"then
-_G.whitelist=true
-
-elseif a=="SunjunyuSSS"then
-_G.whitelist=true
-
-elseif a=="cmhehebeb"then
-_G.whitelist=true
-
-elseif a=="plmnkoijbvhuygcxfty"then
-_G.whitelist=true
-
-elseif a=="function963"then
-_G.whitelist=true
-
-elseif a=="Bluewitchme"then
-_G.whitelist=true
-
-elseif a=="yuihghghg"then
-_G.whitelist=true
-
-elseif a=="yuihuiniao"then
-_G.whitelist=true
-
-elseif a=="QMQQAQQ"then
-_G.whitelist=true
-
-elseif a=="rushshshseek9"then
-_G.whitelist=true
-
-elseif a=="tangxianchu"then
-_G.whitelist=true
-
-elseif a=="zyzqwp"then
-_G.whitelist=true
-
-elseif a=="as30326"then
-_G.whitelist=true
-
-elseif a=="gvgggcfftfrreww"then
-_G.whitelist=true
-
-elseif a=="TANGXIANCHUN"then
-_G.whitelist=true
-
-elseif a=="XHT147"then
-_G.whitelist=true
-
-elseif a=="dss3144"then
-_G.whitelist=true
-
-elseif a=="you5z7"then
-_G.whitelist=true
-
-elseif a=="dulianhui"then
-_G.whitelist=true
-
-elseif a=="jfjefaj"then
-_G.whitelist=true
-
-elseif a=="qazazure"then
-_G.whitelist=true
-
-elseif a=="gghjsydhhsijrjdjsfdj"then
-_G.whitelist=true
-
-elseif a=="whddnb_boors"then
-_G.whitelist=true
+whitelist = {
+"zkosjsiw",
+"114514phz129",
+"jinitaimei1y55555",
+"a2023742",
+"CN_dyc265",
+"SDjdkskes",
+"CN_sakara",
+"1235yangTianyu",
+"fhscnxdznxgz",
+"ymym999a",
+"fengwenshuopp",
+"6331nhdi",
+"xwzz123456aq",
+"doCj2158",
+"cnmlgbdpgt",
+"shiIbushiKUN",
+"ty13725038308",
+"rtyyydshahaha",
+"951357nvjn",
+"gfj233958",
+"qwrtuiplkjhgfdsa",
+"shadiao_yazi",
+"BBB989898988",
+"QMPW147258",
+"gamemode12678643",
+"roblox_qwq7",
+"0997ikun",
+"cclb_123xh",
+"Harry_Bert",
+"6fhg51",
+"moyingyo",
+"567yydc",
+"qjddie4514",
+"Zsjcb1005",
+"xwzz123456aq",
+"SunjunyuSSS",
+"cmhehebeb",
+"plmnkoijbvhuygcxfty",
+"function963",
+"Bluewitchme",
+"yuihghghg",
+"yuihuiniao",
+"QMQQAQQ",
+"rushshshseek9",
+"tangxianchu",
+"zyzqwp",
+"as30326",
+"gvgggcfftfrreww",
+"TANGXIANCHUN",
+"XHT147",
+"dss3144",
+"you5z7",
+"dulianhui",
+"jfjefaj",
+"qazazure"true,
+"gghjsydhhsijrjdjsfdj",
+"whddnb_boors",
 
 
-end
-if _G.whitelist==true then
+}
+if table.find(whitelist, game.Players.LocalPlayer.Name) then
+
     local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
@@ -204,6 +91,7 @@ CoreGui:SetCore("SendNotification", {
     Text = "云端加速启动中",
     Duration = 5, 
 })
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tangxianchun/550WV4/main/550W_V4miyiao.txt"))()
   
     else 
