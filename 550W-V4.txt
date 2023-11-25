@@ -92,6 +92,7 @@ whitelist = {
 "qazazure",
 "gghjsydhhsijrjdjsfdj",
 "whddnb_boors",
+"Qfcwnnz"
 }
 if table.find(whitelist, game.Players.LocalPlayer.Name) then
 
