@@ -2,7 +2,7 @@ local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
     Title = "加群有可能会发放白名单",
     Text = "781759165",
-    Duration = 2999, 
+    Duration = 10, 
 })
 
 wait(2)
